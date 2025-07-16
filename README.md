@@ -40,4 +40,8 @@ A smart, secure, and efficient door locking solution that combines **IoT technol
 - Face recognition integration for multi-factor authentication
 - AI-based threat detection for security alert 
 - Mobile app for remote access and control  
-- Battery backup for power outages  
+- Battery backup for power outages
+  
+## Demo Image 
+https://drive.google.com/file/d/173mlKRVNaxqmsfPNHNutVmL9RUOUbcJ6/view?usp=drive_link
+
